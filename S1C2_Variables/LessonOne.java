@@ -1,5 +1,12 @@
+/**
+ * Tester les variables.
+ */
 public class LessonOne {
     
+    /**
+     * Méthode de lancement du programme.
+    * @param args les paramètres de la méthode.
+    */   
     public static void main(String[] args) {
         int thisYear = 2019;
         String birthdayMonth = "June";
